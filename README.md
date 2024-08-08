@@ -36,7 +36,7 @@ This project utilizes brGDGT compounds found in lakes to predict bacterial assem
    import pandas as pd
    
    # Load the GMM model
-   loaded_gmm = joblib.load('brGMM_BAE_lake.pkl')
+   loaded_gmm = joblib.load('brGMM-BAE.pkl')
    
    # Read the data
    data = pd.read_excel('Example.xlsx', sheet_name='Sheet1')
