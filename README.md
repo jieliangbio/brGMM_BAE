@@ -27,7 +27,7 @@ This project utilizes brGDGT compounds found in lakes to predict bacterial assem
    pip install joblib pandas
    ```
 
-3. **Load the model and make predictions**
+3. **Load the model and make predictions (Python)**
 
    Run the following code in your Python environment:
 
@@ -51,10 +51,16 @@ This project utilizes brGDGT compounds found in lakes to predict bacterial assem
    data.loc[data['Predicted_Labels'] == 2, 'Bacterial Cluster'] = 'Freshwater Species'
    ```
 
+## App Version
+
+For those unfamiliar with Python, we also offer a [Windows app](https://figshare.com/s/c4bfd3121aaae849f086) that allows you to make predictions without needing to install or run Python code.
+
+https://github.com/jieliangbio/brGMM_BAE/tree/main/Images/brGMMapp.png
+
 ## Usage Instructions
 
-1. Ensure you have followed the installation guide to set up all dependencies.
-2. Use the above code snippet to load the model and data, then perform predictions.
+1. If using Python, follow the installation guide to set up all dependencies and use the provided code snippet to load the model and data, then perform predictions.
+2. If using the Windows app, simply download and run the app to make predictions without needing any additional setup.
 
 ## Contribution Guidelines
 
