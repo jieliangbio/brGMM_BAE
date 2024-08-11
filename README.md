@@ -55,7 +55,7 @@ This project utilizes brGDGT compounds found in lakes to predict bacterial assem
 
 For those unfamiliar with Python, we also offer a [Windows app](https://figshare.com/s/c4bfd3121aaae849f086) that allows you to make predictions without needing to install or run Python code.
 
-https://github.com/jieliangbio/brGMM_BAE/tree/main/Images/brGMMapp.png
+![alt 属性文本](https://github.com/jieliangbio/brGMM_BAE/blob/main/Images/brGMMapp.png)
 
 ## Usage Instructions
 
