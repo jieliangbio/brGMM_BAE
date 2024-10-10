@@ -1,15 +1,15 @@
 # brGMM_BAE model
 
-BrGMM_BAE  is a clustering model to predict lake pH and salinity based on brGDGT compounds.
+BrGMM_BAE is a clustering model designed to predict freshwater or halo-alkaliphilic bacterial assemblages based on brGDGT MBT'5Me and IR indices.
 
 ## Project Overview
 
-This project utilizes brGDGT compounds found in lakes to predict bacterial assemblages using a GMM (Gaussian Mixture Model).
+This project utilizes brGDGT MBT'5Me and IR indices found in lakes to predict bacterial assemblages using a GMM (Gaussian Mixture Model).
 
 ## Features
 
-- Predicts lake bacterial assemblages using brGDGT compounds.
-- Estimates lake pH and salinity both in modern and paleo.
+- Predicts lake bacterial assemblages using brGDGT MBT'5Me and IR indices.
+- Estimates bacterial assemblages both in modern and paleo.
 
 ## Installation Guide
 
@@ -53,7 +53,7 @@ This project utilizes brGDGT compounds found in lakes to predict bacterial assem
 
 ## GUI Version
 
-For those unfamiliar with Python, we create a graphical user interface (GUI) that allows you to make predictions without needing to install or run Python code.
+For those unfamiliar with Python, we create [a graphical user interface (GUI)](https://figshare.com/s/c4bfd3121aaae849f086) that allows you to make predictions without needing to install or run Python code.
 
 ![alt 属性文本](https://github.com/jieliangbio/brGMM_BAE/blob/main/Images/brGMMapp.png)
 
@@ -71,4 +71,10 @@ Contributions are welcome! If you want to contribute to this project, please for
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-Please replace the repository URL `https://github.com/yourusername/brLCP.git` and the Excel file name `XXX.xlsx` with the actual values. Let me know if there are any other details you would like to add or modify! If you have any questions, feel free to contact me at jie.liang@awi.de.
+Please replace the repository URL `https://github.com/yourusername/brLCP.git` and the Excel file name `XXX.xlsx` with the actual values. Let me know if there are any other details you would like to add or modify! 
+
+```
+
+## Contact
+
+If you have any questions, feel free to contact me at jie.liang@awi.de.
