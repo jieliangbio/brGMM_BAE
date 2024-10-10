@@ -1,6 +1,6 @@
 # brGMM_BAE model
 
-brGMM_BAE  is a clustering model to predict lake pH and salinity based on brGDGT compounds.
+BrGMM_BAE  is a clustering model to predict lake pH and salinity based on brGDGT compounds.
 
 ## Project Overview
 
