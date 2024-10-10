@@ -51,16 +51,16 @@ This project utilizes brGDGT compounds found in lakes to predict bacterial assem
    data.loc[data['Predicted_Labels'] == 2, 'Bacterial Cluster'] = 'Freshwater Species'
    ```
 
-## App Version
+## GUI Version
 
-For those unfamiliar with Python, we also offer a [Windows app](https://figshare.com/s/c4bfd3121aaae849f086) that allows you to make predictions without needing to install or run Python code.
+For those unfamiliar with Python, we create a graphical user interface (GUI) that allows you to make predictions without needing to install or run Python code.
 
 ![alt 属性文本](https://github.com/jieliangbio/brGMM_BAE/blob/main/Images/brGMMapp.png)
 
 ## Usage Instructions
 
 1. If using Python, follow the installation guide to set up all dependencies and use the provided code snippet to load the model and data, then perform predictions.
-2. If using the Windows app, simply download and run the app to make predictions without needing any additional setup.
+2. If using the Windows GUI, simply download and run the GUI to make predictions without needing any additional setup.
 
 ## Contribution Guidelines
 
