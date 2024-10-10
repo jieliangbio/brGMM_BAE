@@ -71,4 +71,4 @@ Contributions are welcome! If you want to contribute to this project, please for
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-Please replace the repository URL `https://github.com/yourusername/brLCP.git` and the Excel file name `XXX.xlsx` with the actual values. Let me know if there are any other details you would like to add or modify!
+Please replace the repository URL `https://github.com/yourusername/brLCP.git` and the Excel file name `XXX.xlsx` with the actual values. Let me know if there are any other details you would like to add or modify! If you have any questions, feel free to contact me at jie.liang@awi.de.
